@@ -25,5 +25,9 @@
 		main {
 			max-width: none;
 		}
+
+		img {
+			width: 50vw;
+		}
 	}
 </style>
